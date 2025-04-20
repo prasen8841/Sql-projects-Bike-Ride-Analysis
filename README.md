@@ -113,7 +113,7 @@ With the right planning and analysis, bike rental services can boost utilization
 If you liked this project or have suggestions:
 
 - 📫 Email: prasenjit8841@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/prasenjitsaha8841/))
+- 💼 [LinkedIn]:(https://www.linkedin.com/in/prasenjitsaha8841/))
 
 ---
 
